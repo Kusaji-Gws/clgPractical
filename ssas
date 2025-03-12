@@ -1,0 +1,28 @@
+[33m01ec8a8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;32mmain[m[33m)[m added first feature
+[33m0cced08[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;33mtag: [m[1;33mv1.5[m[33m, [m[1;31morigin/main[m[33m)[m mofify
+[33mc194b4d[m[33m ([m[1;32mfeature/search[m[33m)[m add
+[33m8d7d5d7[m this commit for txt file
+[33ma651bd8[m hiii
+[33m769f044[m search type 3 Functionality
+[33me251c69[m search type 2 Functionality
+[33mab608df[m search type 1 Functionality
+[33me44c8f6[m[33m ([m[1;31morigin/feature/search[m[33m)[m added search feature
+[33m7e0e76e[m[33m ([m[1;32mfeatures[m[33m)[m add
+[33mc01bfbf[m fixed bug in main
+[33m9e223a4[m this commit for txt file
+[33m633263d[m this commit for txt file
+[33m66960cc[m Merge branch 'feature/login'
+[33me96d7c5[m[33m ([m[1;32mfeature/login[m[33m)[m this commit for txt file
+[33m02cad95[m added utils.py file
+[33md36b500[m added data in utils.py
+[33m1770054[m Resolved merge conflict in login.py
+[33m6a1f088[m sec login
+[33m33902fa[m first login
+[33m67a61cf[m login updated
+[33m06f5173[m[33m ([m[1;32mmaster[m[33m, [m[1;32mfeature/payment[m[33m)[m Revert "Added info in config.json file"
+[33md55db3e[m Added info in config.json file
+[33mf939f91[m Revert "Added info in config.json file"
+[33m67c76c8[m Added info in config.json file
+[33md0f584e[m Revert "Added info in config.json file"
+[33md8fb363[m Added info in config.json file
+[33mda0fe36[m first commit
